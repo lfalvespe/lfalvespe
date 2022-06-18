@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente trabalho no <a href="https://www.cpqd.com.br"><strong><em>CPQD</em></strong></a>
-- 🌱 Atualmente estou estudando HTML5 e CSS3
-- 📫 Contate-me no email: lfalvespr@gmail.com
+- 🌱 Atualmente estou estudando HTML5, CSS3 e Javascript.
+- 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 
