@@ -3,6 +3,7 @@
 - 🌱 Atualmente estudando <strong>HTML5</strong>, <strong>CSS3</strong> e <strong>Javascript</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
+
 <div align="center">
   <a href="https://github.com/lfalvespe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfalvespe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
