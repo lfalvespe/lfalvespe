@@ -1,6 +1,6 @@
 ## Olá, eu sou a Fernando Alves 👋
 - 🔭 Trabalho no <a href="https://www.cpqd.com.br"><strong><em>CPQD</em></strong></a>
-- 🌱 Atualmente estudando <strong>HTML5</strong>, <strong>CSS3</strong> e <strong>Javascript</strong>.
+- 🌱 Atualmente estudando <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Javascript</strong> e <strong>MySQL</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
 
