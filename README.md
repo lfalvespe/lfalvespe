@@ -1,4 +1,4 @@
-## Olá, eu sou a Fernando Alves 👋
+## Olá, eu sou Fernando Alves 👋
 - 🔭 Trabalho no <a href="https://www.cpqd.com.br"><strong><em>CPQD</em></strong></a>
 - 🌱 Atualmente estudando <strong>HTML5-CSS3 + Javascript</strong> e <strong>PHP+MySQL</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
