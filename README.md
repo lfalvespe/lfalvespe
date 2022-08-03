@@ -16,6 +16,7 @@
   <img align="center" alt="lfalves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lfalves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="lfalves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   <img align="center" alt="lfalves-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   
   <img align="right" alt="lfalvespe-pic" height="150" style="border-radius:50px;" src="https://github.com/lfalvespe/lfalvespe/blob/main/cartoon.png?width=676&height=676">
 </div>
