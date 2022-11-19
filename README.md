@@ -1,6 +1,6 @@
 ##    Olá, eu sou Fernando Alves 👋
 - 🔭 Trabalho no <a href="https://www.cpqd.com.br"><strong><em>CPQD</em></strong></a>
-- 🌱 Atualmente estudando <strong>REACT, BOOTSTRAP</strong>.
+- 🌱 Atualmente estudando <strong>Javascript avançado</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
 
@@ -13,7 +13,6 @@
   <img align="center" alt="lfalves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lfalves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="lfalves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="lfalves-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="lfalves-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="lfalves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lfalves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
