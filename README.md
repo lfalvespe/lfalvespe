@@ -14,8 +14,8 @@
   <img align="center" alt="lfalves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="lfalves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="lfalves-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="lfalves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lfalves-sass" height="30" width="30" src="sass.png">
+  <img align="center" alt="lfalves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lfalves-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   
   <img align="right" alt="lfalvespe-pic" height="150" style="border-radius:50px;" src="https://github.com/lfalvespe/lfalvespe/blob/main/cartoon2.png?width=676&height=676">
