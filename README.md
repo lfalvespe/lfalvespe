@@ -1,6 +1,6 @@
 ##    Olá, eu sou Fernando Alves 👋
 - 🔭 Trabalho no <a href="https://www.cpqd.com.br"><strong><em>CPQD</em></strong></a>
-- 🌱 Atualmente estudando: <strong>NodeJs | ReactJs</strong>.
+- 🌱 Atualmente estudando:   <strong>Node Js | React Js</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
 
