@@ -10,13 +10,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfalvespe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="lfalves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lfalves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="lfalves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="lfalves-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="lfalves-sass" height="30" width="30" src="sass.png">
-  <img align="center" alt="lfalves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="lfalves-mysql" height="30" width="30" src="mysql.png">
+  <img align="center" alt="lfalves-HTML" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lfalves-CSS" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="lfalves-Js" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="lfalves-Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="lfalves-sass" height="34" width="34" src="sass.png">
+  <img align="center" alt="lfalves-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="lfalves-mysql" height="34" width="34" src="mysql.png">
   
   <img align="right" alt="lfalvespe-pic" height="150" style="border-radius:50px;" src="https://github.com/lfalvespe/lfalvespe/blob/main/cartoon2.png?width=676&height=676">
 </div>
