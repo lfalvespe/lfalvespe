@@ -1,5 +1,5 @@
 ##    Olá, eu sou Fernando Alves 👋
-- 📒 Aluno de Análise e desenvolvimento de sistemas
+- 📒 Formado em Análise e desenvolvimento de sistemas
 - 🌱 Atualmente estudando:   <strong>Node Js | React Js</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
