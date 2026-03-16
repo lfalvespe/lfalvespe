@@ -1,6 +1,6 @@
 ##    Olá, eu sou Fernando Alves 👋
 - 📒 Formado em Análise e desenvolvimento de sistemas
-- 🌱 Atualmente estudando:   <strong>Node Js | React Js</strong>.
+- 🌱 Desenvolvimento Web:   <strong>Node Js | React Js</strong>.
 - 📫 Contate-me no email: lfalvespe@gmail.com
 - 😄 Pronomes: Ele/Dele
 
